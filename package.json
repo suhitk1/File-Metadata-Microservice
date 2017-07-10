@@ -1,5 +1,5 @@
 {
-  "name": "file-meta-r282",
+  "name": "file-meta-sk1",
   "version": "1.0.0",
   "description": "File Metadata Microservice API",
   "main": "server.js",
@@ -19,16 +19,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rafase282/File-Metadata-Microservice.git"
+    "url": "git+https://github.com/suhitk1/File-Metadata-Microservice.git"
   },
   "keywords": [
-    "r282",
+    "sk1",
     "File-Metadata"
   ],
-  "author": "Rafael (Rafase282) Rodriguez",
+  "author": "Suhit (suhitk1) Kumar",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Rafase282/File-Metadata-Microservice/issues"
+    "url": "https://github.com/suhitk1/File-Metadata-Microservice/issues"
   },
-  "homepage": "https://github.com/Rafase282/File-Metadata-Microservice#readme"
+  "homepage": "https://github.com/suhitk1/File-Metadata-Microservice#readme"
 }
